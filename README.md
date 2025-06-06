@@ -1,4 +1,4 @@
 - 👋 Ola sou F0sco.
 - 👀 Eu estou interessado em estudos sobre programação.
-- 🌱 Estou começando a estudar na linguagem C.
-- 📒 Estou no 1º EnsM, no IFFar. 
+- 🌱 Estou a estudar na linguagem C, HTML, PHP e CSS.
+- 📒 Estou no 2º EnsM, no IFFar. 
