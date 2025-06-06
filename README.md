@@ -1,4 +1,4 @@
-- 👋 Ola sou F0sco.
-- 👀 Eu estou interessado em estudos sobre programação.
+- 👋 Ola sou Lorenzo.
+- 👀 Atualmente sou Monitor de Programação em C para o primeiro ano.
 - 🌱 Estou a estudar na linguagem C, HTML, PHP e CSS.
 - 📒 Estou no 2º EnsM, no IFFar. 
